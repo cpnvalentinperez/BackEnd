@@ -24,6 +24,12 @@ import org.springframework.web.bind.annotation.RestController;
 public class PersonaController {
     @Autowired IPersonaService ipersonaService;
     
+    @GetMapping("/persona/saludar")
+    public String saludar(){
+        return "Bienvenidos a Arg. Programa.";
+    }
+    
+    
     @GetMapping("personas/traer")
     public List<Persona> getPersona(){
         return ipersonaService.getPersona();
