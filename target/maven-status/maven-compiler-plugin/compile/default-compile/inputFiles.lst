@@ -14,7 +14,6 @@ C:\Users\ADMIN\Documents\Argentina Programa\YoProgramo\BackEnd\src\main\java\com
 C:\Users\ADMIN\Documents\Argentina Programa\YoProgramo\BackEnd\src\main\java\com\portfolio\vp\Security\Service\UsuarioService.java
 C:\Users\ADMIN\Documents\Argentina Programa\YoProgramo\BackEnd\src\main\java\com\portfolio\vp\Service\SEducacion.java
 C:\Users\ADMIN\Documents\Argentina Programa\YoProgramo\BackEnd\src\main\java\com\portfolio\vp\Security\Entity\Rol.java
-C:\Users\ADMIN\Documents\Argentina Programa\YoProgramo\BackEnd\src\main\java\com\portfolio\vp\Interface\IPersonaService.java
 C:\Users\ADMIN\Documents\Argentina Programa\YoProgramo\BackEnd\src\main\java\com\portfolio\vp\Entity\hys.java
 C:\Users\ADMIN\Documents\Argentina Programa\YoProgramo\BackEnd\src\main\java\com\portfolio\vp\Security\Repository\iUsuarioRepository.java
 C:\Users\ADMIN\Documents\Argentina Programa\YoProgramo\BackEnd\src\main\java\com\portfolio\vp\Dto\dtoHys.java
@@ -23,6 +22,7 @@ C:\Users\ADMIN\Documents\Argentina Programa\YoProgramo\BackEnd\src\main\java\com
 C:\Users\ADMIN\Documents\Argentina Programa\YoProgramo\BackEnd\src\main\java\com\portfolio\vp\Security\Dto\NuevoUsuario.java
 C:\Users\ADMIN\Documents\Argentina Programa\YoProgramo\BackEnd\src\main\java\com\portfolio\vp\Controller\PersonaController.java
 C:\Users\ADMIN\Documents\Argentina Programa\YoProgramo\BackEnd\src\main\java\com\portfolio\vp\Dto\dtoEducacion.java
+C:\Users\ADMIN\Documents\Argentina Programa\YoProgramo\BackEnd\src\main\java\com\portfolio\vp\Dto\dtoPersona.java
 C:\Users\ADMIN\Documents\Argentina Programa\YoProgramo\BackEnd\src\main\java\com\portfolio\vp\Security\Controller\AuthController.java
 C:\Users\ADMIN\Documents\Argentina Programa\YoProgramo\BackEnd\src\main\java\com\portfolio\vp\Security\jwt\JwtTokenFilter.java
 C:\Users\ADMIN\Documents\Argentina Programa\YoProgramo\BackEnd\src\main\java\com\portfolio\vp\Entity\Persona.java

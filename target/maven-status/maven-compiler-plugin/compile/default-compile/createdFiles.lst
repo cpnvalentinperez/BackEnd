@@ -2,7 +2,6 @@ com\portfolio\vp\Security\Controller\AuthController.class
 com\portfolio\vp\Security\MainSecurity.class
 com\portfolio\vp\Entity\Experiencia.class
 com\portfolio\vp\Entity\hys.class
-com\portfolio\vp\Interface\IPersonaService.class
 com\portfolio\vp\Security\Repository\iUsuarioRepository.class
 com\portfolio\vp\Controller\CHys.class
 com\portfolio\vp\Security\jwt\JwtEntryPoint.class
@@ -21,6 +20,7 @@ com\portfolio\vp\Security\Service\UserDetailsImpl.class
 com\portfolio\vp\Controller\CExperiencia.class
 com\portfolio\vp\WebConfig.class
 com\portfolio\vp\Security\Repository\iRolRepository.class
+com\portfolio\vp\Dto\dtoPersona.class
 com\portfolio\vp\Security\Dto\JwtDto.class
 com\portfolio\vp\Service\SExperiencia.class
 com\portfolio\vp\Security\jwt\JwtTokenFilter.class
