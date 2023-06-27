@@ -1,4 +1,3 @@
-
 package com.portfolio.vp.Controller;
 
 import com.portfolio.vp.Dto.dtoHys;
@@ -23,9 +22,10 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @CrossOrigin(origins = "https://frontendvp-b302b.web.app")
 //@CrossOrigin(origins = {"https://vpfrontend.web.app","http://localhost:4200"})
-@RequestMapping("/hys")
+@RequestMapping("/skill")
 public class CHys {
-     @Autowired
+    
+    @Autowired
     Shys shys;
 
     @GetMapping("/lista")
