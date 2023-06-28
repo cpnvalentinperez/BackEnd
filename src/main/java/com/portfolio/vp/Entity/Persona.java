@@ -20,7 +20,7 @@ public class Persona {
     private  int id;
     
     @NotNull
-    @Size(min = 1, max = 50, message = "no cumple longitud")
+    @Size(min = 1, max = 255, message = "no cumple longitud")
     private String nombre;
     
     @NotNull
